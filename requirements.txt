@@ -1,0 +1,11 @@
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# Note: The following are Python standard libraries (no installation needed):
+# - re (regular expressions)
+# - os (operating system interface)
+# - sys (system-specific parameters)
+# - datetime (date and time handling)
+# - pathlib (object-oriented filesystem paths)
+# - statistics (statistical functions)
+
